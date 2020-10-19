@@ -150,24 +150,3 @@ div :only-child {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-/* active this CSS style from the width 768 px to ... 
-@media only screen and (min-width: 768px) {
-
-    body {
-        background-color: red;
-    }
-
-
-} */
