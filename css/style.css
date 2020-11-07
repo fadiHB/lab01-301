@@ -64,17 +64,17 @@
         margin-top: 125px;
     }
     
+
     .ef,.gh {
         display: flex;
         flex-wrap: wrap;
     }
-
-
+    .efgh {
+        display: flex;
+        flex-direction: row;
+    }
     
- 
-
- 
-    
+   
     .i {
     
         height: 150px;
