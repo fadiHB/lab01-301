@@ -1,5 +1,5 @@
 $(function(){
-    $('.a').css("background-color","#A411AD");
+    // $('.a').css("background-color","#A411AD");
     $('.b').css("background-color","#F366FA");
     $('.c').css("background-color","#F7C10F");
     $('.d').css("background-color","#28F7CD");
